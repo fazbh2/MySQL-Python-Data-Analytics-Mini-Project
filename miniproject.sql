@@ -1,6 +1,6 @@
 
 -- ECON 443 Python Data Analytics Mini-Project
--- Shuhan YANG 406545328
+
 
 CREATE DATABASE IF NOT EXISTS mini_project;
 USE mini_project;
